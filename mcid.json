@@ -1,0 +1,4 @@
+{
+  "_about": "Minimal (clinically) important differences used by risk_numbers.meaningful(). EMPTY by design: BioSynthetica does not invent thresholds. Add the ones your field uses, each with its source, e.g. \"systolic blood pressure\": {\"value\": 5, \"unit\": \"mmHg\", \"source\": \"<guideline or paper>\"}. Endpoint names are matched case-insensitively against the finding's endpoint.",
+  "endpoints": {}
+}
