@@ -34,6 +34,9 @@ if not (ROOT / "retrieval" / "__init__.py").exists() and "retrieval" not in sys.
     _pkg.__path__ = [str(ROOT)]
     sys.modules["retrieval"] = _pkg
 
+STATIC = ROOT / "static"
+STATIC.mkdir(parents=True, exist_ok=True)  # <--- ADD THIS LINE!
+
 from fastapi import FastAPI, File, HTTPException, Request, UploadFile
 from fastapi.responses import FileResponse, PlainTextResponse, StreamingResponse
 from fastapi.staticfiles import StaticFiles
