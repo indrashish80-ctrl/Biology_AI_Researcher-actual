@@ -1,6 +1,63 @@
-Copyright (c) 2026 [INDRASHISH SAHA]. All Rights Reserved.
+# Biosynthetica SOFTWARE — PROPRIETARY LICENSE
 
-This source code and all related documentation are proprietary and confidential. 
-Unauthorized copying, modification, distribution, reverse engineering, or use 
-of this software, via any medium, is strictly prohibited without the express 
-written permission of the copyright holder.
+Copyright (c) 2026 Indrashish Saha (First Author)
+Copyright (c) 2026 Aditya Sarkar (Second Author)
+
+All Rights Reserved.
+
+This software, including the Biosynthetica source code, associated files,
+documentation, models, configurations, assets, and other materials
+contained within this project, is proprietary and confidential
+("Software").
+
+The Software is the intellectual property of the copyright holders
+identified above.
+
+NO PERMISSION IS GRANTED to any person or organization to, without
+prior express written permission from the copyright holders:
+
+1. Copy, reproduce, or redistribute the Software, in whole or in part.
+
+2. Modify, adapt, translate, or create derivative works based on
+   the Software.
+
+3. Publish, upload, distribute, sublicense, sell, rent, lease, or
+   otherwise make the Software available to any third party.
+
+4. Use the Software or any substantial portion of it for commercial,
+   educational, research, public, or private purposes beyond
+   authorized use.
+
+5. Reverse engineer, decompile, disassemble, or otherwise attempt
+   to derive the source code, architecture, algorithms, or internal
+   implementation of the Software.
+
+6. Remove, alter, or obscure copyright notices, license notices,
+   authorship information, or other proprietary notices contained
+   within the Software.
+
+7. Use the Software, its source code, architecture, documentation,
+   or substantial portions thereof to develop or distribute another
+   software product without written authorization.
+
+Any permission to use, copy, modify, distribute, or otherwise interact
+with the Software must be granted explicitly and in writing by the
+copyright holders.
+
+Unauthorized use, copying, modification, distribution, or disclosure
+of the Software may constitute infringement of applicable intellectual
+property rights.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+THE COPYRIGHT HOLDERS SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+This license applies unless a separate written agreement signed by
+the copyright holders explicitly states otherwise.
+
+For permission requests or licensing inquiries, contact the copyright
+holders through the project's designated contact information.
+
+END OF LICENSE
+
