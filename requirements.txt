@@ -1,0 +1,23 @@
+# --- original engine ---
+streamlit
+pandas
+numpy
+scipy
+openai
+google-genai
+python-dotenv
+requests
+openpyxl
+# --- web app ---
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart
+# --- local vector search (runs on your CPU, no hosted DB) ---
+chromadb>=0.5
+fastembed>=0.4
+# --- open-access PDF parsing (Unpaywall full text) ---
+pypdf>=4.0
+# --- only for tests/offline_harness.py (synthetic PDFs) ---
+reportlab
+# --- spelling ("Did you mean"): English word frequencies, ranked below the biomedical vocabulary (MIT, pure Python) ---
+pyspellchecker>=0.8

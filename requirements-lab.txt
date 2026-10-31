@@ -1,0 +1,3 @@
+# --- optional: the Simulator (virtual lab models in SBML, run by libRoadRunner). Installed by run.bat / run.sh;
+#     if it cannot be installed on this computer, everything else still works.
+tellurium>=2.2.10
